@@ -1,0 +1,28 @@
+====================================
+      REGULATORY RESPONSE LETTER
+====================================
+
+Query Reference : QUERY-REF-001
+Entity           : HDFC
+Generated On     : 2026-05-22
+
+------------------------------------
+1. EXPOSURES
+------------------------------------
+HDFC|ABC_CORP|8000000|2026-05-10
+HDFC|SHELL_COMPANY_INC|10000000|2026-05-10
+
+------------------------------------
+2. FILINGS
+------------------------------------
+FIL101|HDFC|AML_REPORT|Q1_2026|5000000|SUBMITTED
+FIL104|HDFC|COMPLIANCE_REPORT|Q2_2026|7000000|SUBMITTED
+FIL106|HDFC|OFFSHORE_STRUCTURE|Q3_2026|12000000|UNDER_REVIEW
+
+------------------------------------
+3. TRANSACTIONS
+------------------------------------
+TXN1001|HDFC|ABC_CORP|5000000|2026-05-01|TRANSFER
+TXN1002|HDFC|ABC_CORP|7000000|2026-05-03|OFFSHORE_STRUCTURE_PAYMENT
+TXN1005|HDFC|SHELL_COMPANY_INC|15000000|2026-05-06|SHELL_COMPANY_TRANSFER
+
